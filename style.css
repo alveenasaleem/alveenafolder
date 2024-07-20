@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+ height: 50px;
+ background-color: transparent;   
+}
+.box2{
+    height: 50px;
+    background-color: transparent;   
+   }
+   .box3{
+    height: 50px;
+    background-color:transparent;   
+   }
+.mainNav{
+    height: 70px;
+    background-color: rgb(36, 38, 51);
+    align-items: center;
+}
+.box2 ul{
+    list-style: none;
+}
+.box2 ul li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 50px;
+}
+.box2 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.HireMe{
+    border-radius: 100px;
+    height: 40px;
+    border: 2px solid gray;
+    color: aliceblue;
+}
+.txt{
+    height: 350px;
+    background-color: transparent;
+}
+.img{
+    height: 350px;
+    background-color: transparent;
+}
+.bnr{
+    height: 500px;
+    background-color: rgb(36, 38, 51);
+}
+.txt h2{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.txt h1{
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+.txt p{
+    color: gray;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.txt h2{
+    margin-top: 50px;
+}
+.Resume{
+    border: 2px solid gray;
+    color: aliceblue;
+    border-radius: 30px;
+}
+.Resume:hover{
+    color: aliceblue;
+}
+.Services{
+    background-color: rgb(72, 74, 92);
+    height: 100px;
+}
+.MainServices{
+    background-color: rgb(72, 74, 92);
+}
